@@ -1,0 +1,2 @@
+../Core/Src/microSD.c:25:13:plik_SD_init	4
+../Core/Src/microSD.c:51:13:write_data_SD	5

@@ -1,0 +1,10 @@
+../Core/Src/main.c:82:6:power_on	2
+../Core/Src/main.c:108:6:acc_data	2
+../Core/Src/main.c:130:6:power_off	1
+../Core/Src/main.c:137:6:acc_write	1
+../Core/Src/main.c:147:6:acc_read	1
+../Core/Src/main.c:157:6:acc_init	1
+../Core/Src/main.c:175:5:main	3
+../Core/Src/main.c:257:6:SystemClock_Config	4
+../Core/Src/main.c:307:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:324:6:Error_Handler	1
